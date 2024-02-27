@@ -1,4 +1,4 @@
-![WITNs Banner](/path/to/github-logo.webp)
+![WITNs Banner](./logo/github-logo.png)
 
 # Welcome to WITNs
 
