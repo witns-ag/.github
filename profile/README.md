@@ -1,4 +1,4 @@
-![WITNs Banner](./logo/github-logo.png)
+![WITNs Banner](https://github.com/witns-ag/.github/blob/main/profile/logo/github-logo.png?raw=true)
 
 # Welcome to WITNs
 
